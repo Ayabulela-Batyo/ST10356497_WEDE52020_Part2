@@ -32,4 +32,18 @@ contact.html
 	•	Embedded Google Maps iframe placeholders for locations.
 	•	Added contact form with name, email, and message fields.
 	•	Applied consistent form styling from enquiry. 
+JavaScript 
+	- Added interactive accordion for Programs page
+	- Implemented modal windows for image galleries
+	- Added Google Maps integration for office locations
+	- Created form validation with real-time feedback
+	- Added AJAX form submission
+	- Implemented smooth scrolling navigation
+	- Added character counters for text areas
+Part 2 Corrections 
+	- Fixed inconsistent file naming (enquiry.html)
+	- Corrected HTML structure and closing tags
+	- Improved semantic markup
+	- Added missing alt text for images
+	- Standardized navigation across all pages
 
