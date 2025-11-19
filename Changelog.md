@@ -32,6 +32,7 @@ contact.html
 	•	Embedded Google Maps iframe placeholders for locations.
 	•	Added contact form with name, email, and message fields.
 	•	Applied consistent form styling from enquiry. 
+	Part 3 (19/11/2025)
 JavaScript 
 	- Added interactive accordion for Programs page
 	- Implemented modal windows for image galleries
@@ -46,4 +47,10 @@ Part 2 Corrections
 	- Improved semantic markup
 	- Added missing alt text for images
 	- Standardized navigation across all pages
+	Content & Semantics
+	- Added missing alt text for all images
+	- Improved semantic markup with proper HTML5 elements
+	- Enhanced heading hierarchy for better SEO
+	- Added meta viewport tag for responsive design
+	- Included proper DOCTYPE declarations
 
