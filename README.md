@@ -5,10 +5,10 @@
 <img width="321" height="549" alt="Screenshot 2025-09-26 152757" src="https://github.com/user-attachments/assets/42362cc3-d7df-470c-a00b-9405780a7e48" />
 <img width="517" height="621" alt="Screenshot 2025-09-26 152828" src="https://github.com/user-attachments/assets/43711cc0-3081-4de6-ab1b-7b3975cb1710" />
 •	W3Schools. (n.d.). CSS Flexbox Guide. Retrieved September 26, 2025, from https://www.w3schools.com/css/css3_flexbox.asp
-	•	Mozilla Developer Network (MDN). (n.d.). CSS Grid Layout. Retrieved September 26, 2025, from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-	•	Unsplash. (n.d.). Free stock images. Retrieved September 26, 2025, from https://unsplash.com
-	•	Pexels. (n.d.). Free bakery stock photos. Retrieved September 26, 2025, from https://www.pexels.com
-	•	Google Fonts. (n.d.). Roboto font family. Retrieved September 26, 2025, from https://fonts.google.com/specimen/Roboto
+	•	Mozilla (2019). MDN Web Docs. [online] MDN Web Docs. Available at: https://developer.mozilla.org/en-US/.
+	•	Unsplash (2025). Beautiful Free Images & Pictures | Unsplash. [online] Unsplash.com. Available at: https://unsplash.com.
+	•	Pexels (2014). Free stock photos · Pexels. [online] Pexels.com. Available at: https://www.pexels.com.
+	•	Robertson, C. (2019). Google Fonts. [online] Google Fonts. Available at: https://fonts.google.com/specimen/Roboto.
   
 Part3 Project Overview  (2025/11/19)
 This website serves as the digital presence for GreenFuture SA, showcasing their programs, mission, and providing ways for volunteers and partners to get involved.
