@@ -10,3 +10,11 @@
 	•	Pexels. (n.d.). Free bakery stock photos. Retrieved September 26, 2025, from https://www.pexels.com
 	•	Google Fonts. (n.d.). Roboto font family. Retrieved September 26, 2025, from https://fonts.google.com/specimen/Roboto
   
+Part3 Project Overview  (2025/11/19)
+This website serves as the digital presence for GreenFuture SA, showcasing their programs, mission, and providing ways for volunteers and partners to get involved.
+index.html - Newsletter signup and quick volunteer form
+enquiry.html - Volunteer and partnership application
+contact.html - General message submission with categorization
+about.html - Team contacts and partnership inquiry forms
+services.html - Program registration and customer workshop forms
+javascript - for enhanced form functionality
